@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/user-api/user-api.iml" filepath="$PROJECT_DIR$/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-client-feign/user-client-feign.iml" filepath="$PROJECT_DIR$/user-client-feign/user-client-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-client-rest-template/user-client-rest-template.iml" filepath="$PROJECT_DIR$/user-client-rest-template/user-client-rest-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-client-ribbon/user-client-ribbon.iml" filepath="$PROJECT_DIR$/user-client-ribbon/user-client-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-client-ribbon-feign/user-client-ribbon-feign.iml" filepath="$PROJECT_DIR$/user-client-ribbon-feign/user-client-ribbon-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-server-1/user-server-1.iml" filepath="$PROJECT_DIR$/user-server-1/user-server-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-server-2/user-server-2.iml" filepath="$PROJECT_DIR$/user-server-2/user-server-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-spring-cloud.iml" filepath="$PROJECT_DIR$/user-spring-cloud.iml" />
+    </modules>
+  </component>
+</project>

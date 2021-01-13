@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a09ea32a-e5f7-488f-b45b-0c8f6bf75a80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eureka-server-1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-1/src/main/java/com/tianwen/eureka/EurekaServer1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-1/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-2/src/main/java/com/tianwen/eureka/EurekaServer2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server-2/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="eureka" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\environment\repository" />
+        <option name="mavenHome" value="D:/environment/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectId" id="1aJ6X0lNvrAmjEqZXHPiZ8vCfmI" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../spring" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\source-code\spring-cloud\eureka\eureka-server-1\src\main\resources" />
+      <recent name="D:\workspace\source-code\spring-cloud\eureka\eureka-server-2\src\main\resources" />
+      <recent name="D:\workspace\source-code\spring-cloud\eureka\eureka-server-1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\source-code\spring-cloud\eureka\eureka-server-1\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EurekaServer2Application">
+    <configuration name="AAA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.eureka.AAA" />
+      <module name="eureka-server-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.eureka.EurekaServer1Application" />
+      <module name="eureka-server-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.eureka.EurekaServer2Application" />
+      <module name="eureka-server-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.EurekaServerApplication" />
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tianwen.eureka.EurekaServer1Application" />
+    </configuration>
+    <configuration name="EurekaServer2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server-2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tianwen.eureka.EurekaServer2Application" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.AAA" />
+      <item itemvalue="Application.EurekaServer1Application" />
+      <item itemvalue="Application.EurekaServer2Application" />
+      <item itemvalue="Application.EurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekaServer2Application" />
+        <item itemvalue="Application.EurekaServer1Application" />
+        <item itemvalue="Application.AAA" />
+        <item itemvalue="Application.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a09ea32a-e5f7-488f-b45b-0c8f6bf75a80" name="Default Changelist" comment="" />
+      <created>1586441384712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586441384712</updated>
+      <workItem from="1594227518266" duration="275000" />
+      <workItem from="1594391482526" duration="1177000" />
+      <workItem from="1595257175626" duration="627000" />
+      <workItem from="1601708876046" duration="2000" />
+      <workItem from="1601798138662" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2090000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1603210077855">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1603210077855" />
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom" timestamp="1605800094010">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605800094010" />
+    <state width="2517" height="491" key="GridCell.Tab.0.center" timestamp="1605800094010">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605800094010" />
+    <state width="2517" height="491" key="GridCell.Tab.0.left" timestamp="1605800094010">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605800094010" />
+    <state width="2517" height="491" key="GridCell.Tab.0.right" timestamp="1605800094010">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605800094010" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom" timestamp="1605800099930">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605800099930" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center" timestamp="1605800099930">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605800099930" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left" timestamp="1605800099930">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605800099930" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right" timestamp="1605800099930">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605800099930" />
+    <state x="956" y="433" width="647" height="534" key="find.popup" timestamp="1604759287725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="956" y="433" width="647" height="534" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1604759287725" />
+    <state x="654" y="401" key="new project wizard" timestamp="1604718998143">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="654" y="401" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1604718998143" />
+    <state x="936" y="353" width="672" height="676" key="search.everywhere.popup" timestamp="1603726312584">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="353" width="672" height="676" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1603726312584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.3.RELEASE/spring-cloud-netflix-eureka-client-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/serviceregistry/EurekaAutoServiceRegistration.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>673</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>376</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>1069</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>604</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>418</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/EurekaBootStrap.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>661</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-netflix-eureka-server-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java</url>
+          <line>172</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-netflix-eureka-server-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/PeerReplicationResource.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-netflix-eureka-server-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/InstanceRegistry.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-netflix-eureka-server-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/InstanceRegistry.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/ApplicationsResource.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-netflix-eureka-server-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java</url>
+          <line>260</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint log-message="true" suspend="NONE" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-netflix-eureka-server-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerAutoConfiguration.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.3.RELEASE/spring-cloud-netflix-eureka-client-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.java</url>
+          <line>282</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>966</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.3.RELEASE/spring-cloud-netflix-eureka-server-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerInitializerConfiguration.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/DefaultEurekaServerContext.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>288</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>640</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>934</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>344</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
+          <line>145</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/InstanceResource.java</url>
+          <line>280</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/cluster/PeerEurekaNode.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/transport/JerseyReplicationClient.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/resources/ApplicationResource.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-core/1.9.13/eureka-core-1.9.13-sources.jar!/com/netflix/eureka/registry/AbstractInstanceRegistry.java</url>
+          <line>707</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

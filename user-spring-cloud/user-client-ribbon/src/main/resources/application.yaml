@@ -1,0 +1,17 @@
+server:
+  port: 8012
+spring:
+  application:
+    name: user-client-ribbon
+user-server:
+#  name: user-server
+  ribbon:
+    eureka:
+      enabled: false
+    listOfServers: 127.0.0.1:8001,127.0.0.1:8002
+
+ribbon:
+  http:
+    client:
+#      enabled: false
+      enabled: true

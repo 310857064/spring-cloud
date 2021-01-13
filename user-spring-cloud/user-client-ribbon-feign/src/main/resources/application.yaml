@@ -1,0 +1,11 @@
+server:
+  port: 8013
+spring:
+  application:
+    name: user-client-ribbon-feign
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8333/eureka

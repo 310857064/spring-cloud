@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="user-client-ribbon" />
+        <module name="user-server-2" />
+        <module name="user-server-1" />
+        <module name="user-client-rest-template" />
+        <module name="user-api" />
+        <module name="user-client-feign" />
+        <module name="user-client-ribbon-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="user-api" target="1.8" />
+      <module name="user-client-feign" target="1.8" />
+      <module name="user-client-rest-template" target="1.8" />
+      <module name="user-client-rest-template (1)" target="1.8" />
+      <module name="user-client-ribbon" target="1.8" />
+      <module name="user-client-ribbon-feign" target="1.8" />
+      <module name="user-server-1" target="1.8" />
+      <module name="user-server-2" target="1.8" />
+      <module name="user-spring-cloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+server:
+  port: 8444
+#  context-path: /eureka
+eureka:
+#  instance:
+#    hostname: tianwen2
+  client:
+    service-url:
+#      defaultZone: http://tianwen1:8333/eureka
+      defaultZone: http://127.0.0.1:8333/eureka
+    register-with-eureka: false
+    fetch-registry: false
+
+logging.level.com.netflix.eureka: OFF
+logging.level.com.netflix.discovery: OFF

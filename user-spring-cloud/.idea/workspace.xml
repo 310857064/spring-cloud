@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="889beac5-e720-4f6a-9566-ccdd46e75036" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="user-spring-cloud" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\environment\repository" />
+        <option name="mavenHome" value="D:/environment/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4uMGpb9qLnFOfUmeyXSH4FcOj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tianwen.user.configuration" />
+      <recent name="com.tianwen.user.controller" />
+      <recent name="com.tianwen.feign.client" />
+      <recent name="com.tianwen.feign.model" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tianwen.user.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RibbonFeignApplication">
+    <configuration name="FeignApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.user.FeignApplication" />
+      <module name="user-client-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.user.RibbonApplication" />
+      <module name="user-client-ribbon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonFeignApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.user.RibbonFeignApplication" />
+      <module name="user-client-ribbon-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.user.Server1Application" />
+      <module name="user-server-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tianwen.user.Server2Application" />
+      <module name="user-server-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tianwen.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RibbonFeignApplication" />
+        <item itemvalue="Application.Server2Application" />
+        <item itemvalue="Application.Server1Application" />
+        <item itemvalue="Application.FeignApplication" />
+        <item itemvalue="Application.RibbonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="889beac5-e720-4f6a-9566-ccdd46e75036" name="Default Changelist" comment="" />
+      <created>1586007137233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586007137233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="414" height="466" key="DebuggerActiveHint" timestamp="1605800417736">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="414" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1605800417736" />
+    <state width="2517" height="376" key="GridCell.Tab.0.bottom" timestamp="1605800669221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669221" />
+    <state width="2517" height="376" key="GridCell.Tab.0.center" timestamp="1605800669220">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669220" />
+    <state width="2517" height="376" key="GridCell.Tab.0.left" timestamp="1605800669220">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669220" />
+    <state width="2517" height="376" key="GridCell.Tab.0.right" timestamp="1605800669220">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669220" />
+    <state width="2517" height="376" key="GridCell.Tab.1.bottom" timestamp="1605800669221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669221" />
+    <state width="2517" height="376" key="GridCell.Tab.1.center" timestamp="1605800669221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669221" />
+    <state width="2517" height="376" key="GridCell.Tab.1.left" timestamp="1605800669221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669221" />
+    <state width="2517" height="376" key="GridCell.Tab.1.right" timestamp="1605800669221">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="376" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1605800669221" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.3.RELEASE/spring-cloud-netflix-eureka-client-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>237</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>255</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>259</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>412</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/shared/transport/decorator/SessionedEurekaHttpClient.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/shared/transport/decorator/EurekaHttpClientDecorator.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/shared/transport/decorator/RetryableEurekaHttpClient.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1470</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1205</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java</url>
+          <line>215</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/DynamicServerListLoadBalancer.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.2.3/feign-core-10.2.3-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>274</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>318</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.3.RELEASE/spring-cloud-netflix-eureka-client-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>984</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>904</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.13.RELEASE/spring-beans-5.1.13.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/LoadBalancerContext.java</url>
+          <line>543</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RandomRule.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>321</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>335</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.13.RELEASE/spring-web-5.1.13.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java</url>
+          <line>734</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>280</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RestClientRibbonConfiguration.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/client/AbstractLoadBalancerAwareClient.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>306</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.13.RELEASE/spring-web-5.1.13.RELEASE-sources.jar!/org/springframework/http/client/support/HttpAccessor.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.3.RELEASE/spring-cloud-netflix-ribbon-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonAutoConfiguration.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.13.RELEASE/spring-web-5.1.13.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java</url>
+          <line>730</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/DummyPing.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/BaseLoadBalancer.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/BaseLoadBalancer.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.3.0/ribbon-core-2.3.0-sources.jar!/com/netflix/client/DefaultLoadBalancerRetryHandler.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user-client-ribbon/src/main/java/com/tianwen/user/configuration/RestTemplateConfigutration.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>289</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>336</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>342</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>347</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.3.0/ribbon-core-2.3.0-sources.jar!/com/netflix/client/RequestSpecificRetryHandler.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/client/AbstractLoadBalancerAwareClient.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/client/AbstractLoadBalancerAwareClient.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignAutoConfiguration.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignAutoConfiguration.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsRegistrar.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.java</url>
+          <line>283</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignAutoConfiguration.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.2.3/feign-core-10.2.3-sources.jar!/feign/ReflectiveFeign.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientsConfiguration.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-core/10.2.3/feign-core-10.2.3-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.java</url>
+          <line>274</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignAutoConfiguration.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user-client-ribbon-feign/src/main/java/com/tianwen/user/controller/UserController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.13/eureka-client-1.9.13-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>130</line>
+          <properties field="PREFIX" class="com.netflix.discovery.DiscoveryClient" />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/user_spring_cloud$Server2Application.ic" NAME="Server2Application Coverage Results" MODIFIED="1586442745083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tianwen.user.*</FILTER>
+    </SUITE>
+  </component>
+</project>
